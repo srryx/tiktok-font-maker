@@ -6,6 +6,7 @@ Make fonted tiktok usernames with this! (forked from 0xf15 and made better)
 - Get the `Edit this cookie` extension (https://chromewebstore.google.com/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 - Make a TikTok account with the VPN connected to one of the servers above, make sure you skip the username option at the beginning
 - Use the `Edit this cookie` extension to get the tiktok Session ID
+- Open CMD and type `pip install requests`
 - Finally run the script, enter the Session ID and the new username you want!
 
 ## Important
