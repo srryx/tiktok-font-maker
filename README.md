@@ -1,5 +1,5 @@
 
-# PATCHED FOR NOW
+# PATCHED FOREVER, THIS WILL NEVER WORK AGAIN
 
 
 # tiktok-font-maker
